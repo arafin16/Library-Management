@@ -1,0 +1,4 @@
+1.vercel
+-vercel CLI
+   -install  (npm i -g vercel)
+-GitHub
